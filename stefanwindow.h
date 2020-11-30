@@ -1,0 +1,4 @@
+#ifndef STEFANWINDOW_H
+#define STEFANWINDOW_H
+
+#endif // STEFANWINDOW_H
